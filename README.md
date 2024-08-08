@@ -1,4 +1,5 @@
   <body>
+    <img src="https://www.researchgate.net/profile/Donia-Zhang/publication/325229254/figure/fig13/AS:746288324833280@1554940410201/The-Nine-Constellations-Magic-Square-Matrix-Jiugongtu-in-ancient-China-When-adding-the.ppm" alt="Square wave" width="500" height="360" align="right">
       <h1>Maigc Box </h1>
       <p>In this repository you will find an implementaton of the <b>Magic Box</b> which is a square matrix whose rows and columns are in 
       <b>ODD</b> numbers, it is called by that name because when adding the numbers of a row and the numbers of a column they will be equal
@@ -8,8 +9,7 @@
       <p>The algorithm is so simple. You will first place the number 1 at the center of the first row. Then, ask yourself if the next number (which is 2 in our case) is divisible by 3. If it is, increase the row by one; if not, you need to decrement both the row and the column by one. And that's it.</p>
 
 
-    <img src="[path/to/image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FThe-Nine-Constellations-Magic-Square-Matrix-Jiugongtu-in-ancient-China-When-adding-the_fig13_325229254&psig=AOvVaw0j0Z7pQCygdR65-M2CHQoT&ust=1723232622391000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOD3wfyT5ocDFQAAAAAdAAAAABAE)" alt="Maigc Box 3X3">
-
+   
 
   </body>
 </html>
