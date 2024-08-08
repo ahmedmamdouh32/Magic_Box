@@ -1,4 +1,3 @@
-![Screenshot (28)](https://github.com/user-attachments/assets/d5a95dbd-b72c-40c0-9a64-390d9c3153b0)<html> 
   <body>
       <h1>Maigc Box </h1>
       <p>In this repository you will find an implementaton of the <b>Magic Box</b> which is a square matrix whose rows and columns are in 
