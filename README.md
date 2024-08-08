@@ -8,6 +8,9 @@
       <h4>Algorithm</h4>
       <p>The algorithm is so simple. You will first place the number 1 at the center of the first row. Then, ask yourself if the next number (which is 2 in our case) is divisible by 3. If it is, increase the row by one; if not, you need to decrement both the row and the column by one. And that's it.</p>
 
+    <div>
+    
     <img src="C:\Users\adminstrator\Pictures\Screenshots\Screenshot (28).png" alt="Magic Box 3X3">
+    </div>
   </body>
 </html>
