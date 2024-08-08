@@ -6,6 +6,6 @@
       and also when adding the numbers in diagonal they will also give the same number.</p>
       <br>
       <h4>Algorithm</h4>
-      <p>The algorithm is so simple. You will first place the number 1 at the center of the first row(row = 1 , column = 2). Then, ask yourself if the next number (which is 2 in our case) is divisible by 3. If it is, increase the row by one(row = 2, column = 2); if not, you need to decrement both the row and the column by one(row = 3 , column = 1),remember that if the row or column number become zero then we need to go ot maximum value(which is 3 in our example). And that's it.</p>
+      <p>The algorithm is so simple. You will first place the number 1 at the center of the first row(row = 1 , column = 2). Then, ask yourself if the next number (which is 2 in our case) is divisible by 3. If it is, increase the row by one(row = 2 , column = 2); if not, you need to decrement both the row and the column by one(row = 3 , column = 1),remember that if the row or column number become zero then we need to go ot maximum value(which is 3 in our example). And that's it.</p>
 
 </html>
