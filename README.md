@@ -1,6 +1,5 @@
   <body>
-    <img src="![image](https://github.com/user-attachments/assets/bcb99bb1-edab-47ba-8767-af5e33bd5b5b)
-" alt="Square wave" width="500" height="360" align="right">
+    <img src="https://www.researchgate.net/profile/Donia-Zhang/publication/325229254/figure/fig13/AS:746288324833280@1554940410201/The-Nine-Constellations-Magic-Square-Matrix-Jiugongtu-in-ancient-China-When-adding-the.ppm" alt="Square wave" width="500" height="360" align="right">
       <h1>Maigc Box </h1>
       <p>In this repository you will find an implementaton of the <b>Magic Box</b> which is a square matrix whose rows and columns are in 
       <b>ODD</b> numbers, it is called by that name because when adding the numbers of a row and the numbers of a column they will be equal
